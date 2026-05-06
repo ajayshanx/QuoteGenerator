@@ -1,0 +1,16 @@
+Large Language Models (LLMs) are AI systems trained on massive amounts of text data to understand and generate human-like language.
+
+Key details:
+- They are typically built using transformer architectures.
+- They predict the next token in a sequence during training and generation.
+- They can perform tasks such as summarization, translation, coding assistance, question answering, and content generation.
+- Their performance depends on model size, training data quality, alignment methods, and inference setup.
+- Common limitations include hallucinations, bias, and context-window constraints.
+
+How they are used:
+- Prompting: users provide instructions or examples.
+- Fine-tuning: models are adapted for domain-specific tasks.
+- Retrieval-Augmented Generation (RAG): external knowledge is fetched and combined with generation for more grounded responses.
+
+Why they matter:
+LLMs improve productivity, automate repetitive language tasks, and enable natural-language interfaces for software and data systems. :)
